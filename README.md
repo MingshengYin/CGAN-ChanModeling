@@ -1,8 +1,9 @@
 # MultiFreqChanModeling-by-GAN-DL-Project
 This is a course project for ECE-7123 DL. Mingsheng Yin(my1778); Yaqi Hu(yh2829). 
 
-The work is extended from 
+Partial code references from 
 * [mmwchanmod](https://github.com/nyu-wireless/mmwchanmod)
+* [Keras Examples](https://keras.io/examples/generative/wgan_gp/)
 
 ## The folder 'data' stores the datasets for training and test
 'dict_BeijingTokyo.p' stores all raw data from Beijing and Tokyo maps required for CWGAN-GP.
