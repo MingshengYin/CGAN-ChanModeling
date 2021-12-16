@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-
 """
-@author: Tommy Azzino
-
-@modified by: Mingsheng Yin, Yaqi Hu
+Re-fit 3GPP path loss model parameters.
 
 To train 2.3GHz for Beijing_Tokyo:
     python reparam_3gppUAS_pathloss.py --fc 2.3e9 --model_dir ../models/Beijing_Tokyo
