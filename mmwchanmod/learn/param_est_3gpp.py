@@ -1,8 +1,7 @@
 """
 param_est_3gpp.py:  classes for parameterizing 3gpp model
 
-Yaqi Hu, Mingsheng Yin 
-Modified for Multi-frequency channel modeling
+11/10 Modified for Multi-frequency channel modeling
 
 """
 
